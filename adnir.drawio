@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T09:42:56.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AQyUcNc2uOp8rXMNDEx0" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-15T09:59:37.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aqzLvamj3c1ZfE_Ycj41" version="24.0.5" type="github" pages="9">
   <diagram name="第 1 页" id="FV1U8RVel5vk3PvPD4CZ">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -609,7 +609,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L8I0ycBpzWBEX1jOrAw3-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;扩展/平台加载器&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Extention/Platform ClassLoader&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D3E39F;" vertex="1" parent="1">
+        <mxCell id="L8I0ycBpzWBEX1jOrAw3-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;扩展/平台加载器&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Extension/Platform ClassLoader&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D3E39F;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="L8I0ycBpzWBEX1jOrAw3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L8I0ycBpzWBEX1jOrAw3-3" target="L8I0ycBpzWBEX1jOrAw3-2">
