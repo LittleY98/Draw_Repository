@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T02:21:38.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kqJgA6L67CZLZvD1kWll" version="24.2.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:17:50.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="06rA053aMEum80x8MsND" version="24.2.5" type="github" pages="13">
   <diagram name="第 1 页" id="FV1U8RVel5vk3PvPD4CZ">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -875,38 +875,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yTTfzO6UcfHzs3r4UnFd" name="常见的垃圾回收器">
-    <mxGraphModel dx="988" dy="546" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="562" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wfJsMQZoQDdV9IDj09dn-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="870" height="420" as="geometry" />
+          <mxGeometry x="304" y="246" width="640" height="304" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-1" value="Serial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="462" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-2" value="ParNew" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-3" value="Parallel Scavenge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE7E8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="830" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="791" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-4" value="Serial Old" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="462" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-5" value="CMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="630" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-6" value="Parallel Old" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE7E8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="830" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="791" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-7" value="G1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="100" height="220" as="geometry" />
+          <mxGeometry x="323" y="288" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wfJsMQZoQDdV9IDj09dn-6" target="wfJsMQZoQDdV9IDj09dn-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="430" as="sourcePoint" />
-            <mxPoint x="850" y="380" as="targetPoint" />
+            <mxPoint x="761" y="430" as="sourcePoint" />
+            <mxPoint x="811" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="wfJsMQZoQDdV9IDj09dn-5" target="wfJsMQZoQDdV9IDj09dn-3">
@@ -939,17 +939,17 @@
             <mxPoint x="840" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wfJsMQZoQDdV9IDj09dn-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F19C99;" edge="1" parent="1" target="wfJsMQZoQDdV9IDj09dn-22">
+        <mxCell id="wfJsMQZoQDdV9IDj09dn-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F19C99;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wfJsMQZoQDdV9IDj09dn-22" target="wfJsMQZoQDdV9IDj09dn-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="390" as="sourcePoint" />
             <mxPoint x="240" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-24" value="Young Generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="319" y="248" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wfJsMQZoQDdV9IDj09dn-25" value="Old Generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="120" height="30" as="geometry" />
+          <mxGeometry x="318" y="516" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
