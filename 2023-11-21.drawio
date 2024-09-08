@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="qZTAHNM4npRYEHCoVnOT">
-    <mxGraphModel dx="1405" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,12 @@
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;定位引擎&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-66" value="设计中，此组建需要支持集群部署，因此上报位置信息时，使用虚拟主题来保证消息不会重复消费。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="585" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-68" value="卡口、闸机、打卡设备、抓拍摄像头、FRID标签、蓝牙。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="890" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
