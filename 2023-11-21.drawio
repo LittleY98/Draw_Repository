@@ -1,22 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="qZTAHNM4npRYEHCoVnOT">
-    <mxGraphModel dx="1815" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PgLJzFWGaRH6koLZOXl_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="570" width="530" height="110" as="geometry" />
+          <mxGeometry x="610" y="620" width="530" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="390" width="530" height="100" as="geometry" />
+          <mxGeometry x="610" y="440" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="150" width="515" height="170" as="geometry" />
+          <mxGeometry x="615" y="200" width="515" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.515;exitY=-0.013;exitDx=0;exitDy=0;entryX=0.52;entryY=1.002;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="494.84000000000026" y="388.3600000000002" as="sourcePoint" />
-            <mxPoint x="494.69000000000017" y="320.00000000000006" as="targetPoint" />
+            <mxPoint x="874.8400000000003" y="438.3600000000002" as="sourcePoint" />
+            <mxPoint x="874.6900000000002" y="370.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-6" value="AMQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PgLJzFWGaRH6koLZOXl_-4">
@@ -26,8 +26,8 @@
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PgLJzFWGaRH6koLZOXl_-1" target="PgLJzFWGaRH6koLZOXl_-2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="490" y="570" as="sourcePoint" />
-            <mxPoint x="490" y="460" as="targetPoint" />
+            <mxPoint x="870" y="620" as="sourcePoint" />
+            <mxPoint x="870" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-7" value="AMQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PgLJzFWGaRH6koLZOXl_-5">
@@ -36,21 +36,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-8" value="数据采集段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="580" width="120" height="30" as="geometry" />
+          <mxGeometry x="620" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-9" value="ESC（事件服务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="767" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="817" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-10" value="DAC（设备驱动层）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="767" width="120" height="60" as="geometry" />
+          <mxGeometry x="815" y="817" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-11" value="第三方设备上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="767" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="817" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=0.993;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="PgLJzFWGaRH6koLZOXl_-9" target="PgLJzFWGaRH6koLZOXl_-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="299.57" y="767" as="sourcePoint" />
-            <mxPoint x="299.57" y="657" as="targetPoint" />
+            <mxPoint x="679.5699999999999" y="817" as="sourcePoint" />
+            <mxPoint x="679.5699999999999" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-13" value="AMQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PgLJzFWGaRH6koLZOXl_-12">
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=0.993;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="495.5" y="767" as="sourcePoint" />
-            <mxPoint x="494.5" y="679" as="targetPoint" />
+            <mxPoint x="875.5" y="817" as="sourcePoint" />
+            <mxPoint x="874.5" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-21" value="AMQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PgLJzFWGaRH6koLZOXl_-20">
@@ -71,8 +71,8 @@
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-22" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=0.993;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="680.5" y="767" as="sourcePoint" />
-            <mxPoint x="679.5" y="679" as="targetPoint" />
+            <mxPoint x="1060.5" y="817" as="sourcePoint" />
+            <mxPoint x="1059.5" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-23" value="WebHook、MQ？记得不是特别清楚、好像是MQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PgLJzFWGaRH6koLZOXl_-22">
@@ -81,97 +81,100 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-24" value="封装成统一报文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="620" width="90" height="40" as="geometry" />
+          <mxGeometry x="1000" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgLJzFWGaRH6koLZOXl_-25" target="PgLJzFWGaRH6koLZOXl_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-25" value="统一坐标系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="620" width="90" height="40" as="geometry" />
+          <mxGeometry x="840" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgLJzFWGaRH6koLZOXl_-26" target="PgLJzFWGaRH6koLZOXl_-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-26" value="关联坐标和人/车/物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="620" width="130" height="40" as="geometry" />
+          <mxGeometry x="650" y="670" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-30" value="数据处理段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="120" height="30" as="geometry" />
+          <mxGeometry x="620" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-32" value="相关信息入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="815" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-33" value="路线入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="640" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-35" value="电子围栏/异常报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="990" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-36" value="用户交互段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="610" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-38" value="定点设备位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="260" width="130" height="40" as="geometry" />
+          <mxGeometry x="627.5" y="310" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-39" value="非定点设备人员绑定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427.5" y="260" width="130" height="40" as="geometry" />
+          <mxGeometry x="807.5" y="310" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-41" value="电子围栏设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="260" width="130" height="40" as="geometry" />
+          <mxGeometry x="987.5" y="310" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-42" value="psql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="885" y="310" width="60" height="80" as="geometry" />
+          <mxGeometry x="1265" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-46" value="Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="890" y="630" width="50" height="42" as="geometry" />
+          <mxGeometry x="1270" y="680" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-47" value="MondogDB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" vertex="1" parent="1">
-          <mxGeometry x="894.4" y="460" width="41.2" height="86.2" as="geometry" />
+          <mxGeometry x="1274.4" y="510" width="41.2" height="86.2" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-48" value="Gis展示人车物位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="200" width="130" height="40" as="geometry" />
+          <mxGeometry x="627.5" y="250" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-49" value="展示指定对象路线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427.5" y="200" width="130" height="40" as="geometry" />
+          <mxGeometry x="807.5" y="250" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-50" value="报警情况展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="200" width="130" height="40" as="geometry" />
+          <mxGeometry x="987.5" y="250" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="640" as="sourcePoint" />
-            <mxPoint x="270" y="640" as="targetPoint" />
+            <mxPoint x="520" y="690" as="sourcePoint" />
+            <mxPoint x="650" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-52" value="对于单兵PDA、FRID等定位设备上报位置数据时，需要在数据库中找到与其关联的对象（人/车/物）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="620" width="200" height="60" as="geometry" />
+          <mxGeometry x="310" y="670" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-53" value="&lt;font color=&quot;#ea6b66&quot;&gt;由于设备较多、且设备上报速度太快的话，并发量较高。中间加上Redis作为缓存。&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;此外，防止出现缓存穿透的问题，使用了不拢过滤器解决。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;防止一启动就有大量的位置上报数据，因此在启动时先进行缓存预热，将相关的数据先缓存进Redis。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="710" width="280" height="130" as="geometry" />
+          <mxGeometry x="270" y="760" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-55" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="800" as="sourcePoint" />
-            <mxPoint x="830" y="800" as="targetPoint" />
+            <mxPoint x="1120" y="850" as="sourcePoint" />
+            <mxPoint x="1210" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-56" value="对外提供一个接口。&lt;div&gt;用于将第三方设备上报的数据整理成统一的格式来进行处理。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="834.4" y="782" width="275.6" height="38" as="geometry" />
+          <mxGeometry x="1214.4" y="832" width="275.6" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-58" value="&lt;font color=&quot;#ea6b66&quot;&gt;实现了一个热加载的功能、将相应Jar包上传。即可实现对第三方设备的扩展。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="825" y="840" width="285" height="60" as="geometry" />
+          <mxGeometry x="1205" y="890" width="285" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="460" as="sourcePoint" />
-            <mxPoint x="260" y="460" as="targetPoint" />
+            <mxPoint x="510" y="510" as="sourcePoint" />
+            <mxPoint x="640" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-60" value="&lt;font&gt;路线信息写入较多，因此选择使用MongoDB。&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;定时间段/定点位数进行路线分段。因为有的对象会长期在线，或者有的对象仅仅是过了一个卡口，就不再上传位置信息了。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;当用户与设备解绑、换绑、删除等操作时，也会直接停止当前线段的插入。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="390" width="220" height="145" as="geometry" />
+          <mxGeometry x="290" y="440" width="220" height="145" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-64" value="这里好像有将路线做了一个定期的缓存？记得不是很清楚了。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="350" width="170" height="30" as="geometry" />
+          <mxGeometry x="290" y="400" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;定位引擎&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
