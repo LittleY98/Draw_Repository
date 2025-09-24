@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.4" pages="2">
   <diagram name="第 1 页" id="qZTAHNM4npRYEHCoVnOT">
-    <mxGraphModel dx="2074" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,6 +181,17 @@
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-68" value="卡口、闸机、打卡设备、抓拍摄像头、FRID标签、蓝牙。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="890" width="350" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pyepyiP9QUiPBcj-kHf4" name="第 2 页">
+    <mxGraphModel dx="916" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJpPP4omJzVX-bwFd4cg-1" value="定位引擎            杭州海康威视数字技术股份有限公司&#xa;&#xa;&#xa;项目描述：&#xa;&#xa;定位引擎是海康威视应用软件开发部的重要基础共性组件，为各个BG的产品提供人、车、物的定位服务。定位引擎包含了人车物的实时定位、电子围栏、告警、历史轨迹功能模块。&#xa;&#xa;&#xa;职责描述：&#xa;负责协调沟通并设计确定报文协议；&#xa;负责数据采集组件、数据处理组件的开发；&#xa;实现第三方设备接入的协议转换；&#xa;   开发协议适配驱动热加载功能，实现不停机更新；&#xa;负责排查并优化并发情况下的效率。" style="text;whiteSpace=wrap;fontSize=18;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="760" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
