@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.4" pages="2">
   <diagram name="第 1 页" id="qZTAHNM4npRYEHCoVnOT">
-    <mxGraphModel dx="2006" dy="969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,8 +80,8 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PgLJzFWGaRH6koLZOXl_-24" value="封装成统一报文" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="670" width="90" height="40" as="geometry" />
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-24" value="报文格式转换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
+          <mxGeometry x="1018" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PgLJzFWGaRH6koLZOXl_-25" target="PgLJzFWGaRH6koLZOXl_-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
         <mxCell id="PgLJzFWGaRH6koLZOXl_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PgLJzFWGaRH6koLZOXl_-26" target="PgLJzFWGaRH6koLZOXl_-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PgLJzFWGaRH6koLZOXl_-26" value="关联坐标和人/车/物" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-26" value="关联坐标和人/车/物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="650" y="670" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-30" value="数据处理段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
@@ -104,7 +104,7 @@
         <mxCell id="PgLJzFWGaRH6koLZOXl_-33" value="路线入库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="490" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PgLJzFWGaRH6koLZOXl_-35" value="电子围栏/异常报警" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-35" value="电子围栏/异常报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="990" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-36" value="用户交互段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
@@ -119,13 +119,13 @@
         <mxCell id="PgLJzFWGaRH6koLZOXl_-41" value="电子围栏设置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="987.5" y="310" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PgLJzFWGaRH6koLZOXl_-42" value="psql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-42" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1265" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-46" value="Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
           <mxGeometry x="1270" y="680" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="PgLJzFWGaRH6koLZOXl_-47" value="MondogDB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" parent="1" vertex="1">
+        <mxCell id="PgLJzFWGaRH6koLZOXl_-47" value="MondoDB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" parent="1" vertex="1">
           <mxGeometry x="1274.4" y="510" width="41.2" height="86.2" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-48" value="Gis展示人车物位置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -180,7 +180,7 @@
           <mxGeometry x="1400" y="585" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PgLJzFWGaRH6koLZOXl_-68" value="卡口、闸机、打卡设备、抓拍摄像头、FRID标签、蓝牙。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="890" width="350" height="60" as="geometry" />
+          <mxGeometry x="650" y="911" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
